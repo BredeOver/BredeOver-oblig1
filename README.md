@@ -4,8 +4,8 @@
 The purpose of this obligatory assignment is to ensures that you Python environment, Git workflow, and repository structure are correctly set up so you can later on do more complex programming tasks
 
 ## Installation Instructions step-by step
-1. Cloning the repository:
-    a. Open Terminal and go to the folder where you want your project
+1. Cloning the repository:  
+    a. Open Terminal and go to the folder where you want your project  
     b. Clone with SSH using:
     ```bash
     git clone git@github.com:DATA1300-V26/oblig-1-YourUsername.git
@@ -19,7 +19,7 @@ The purpose of this obligatory assignment is to ensures that you Python environm
     git status
     ```
 
-2. Creating a virtual environment:
+2. Creating a virtual environment:  
     a. In terminal promt:
     ```bash
     python -m venv venv
